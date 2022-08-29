@@ -43,6 +43,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imrancodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imrancodes" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-codes&show_icons=true&locale=en&layout=compact" alt="imran-codes" /></p>
+<div style='display: flex; align-items: center'>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-codes&show_icons=true&locale=en&layout=compact" alt="imran-codes" />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-codes&" alt="imran-codes" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-codes&" alt="imran-codes" />
+  </div>
