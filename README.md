@@ -3,11 +3,13 @@
 <h3 align="center">Imran | Website Developer YouTube: Imran Codes 💻 ⬇️ Download FREE Git Cheat Sheet 🔗 linktr.ee/imran_codes</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-codes&label=Profile%20views&color=0e75b6&style=flat" alt="imran-codes" /> </p>
+<div style='display: flex; align-items: center'>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran-codes" alt="imran-codes" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=imran-codes&label=Profile%20views&color=0e75b6&style=flat" alt="imran-codes" /> 
 
-<p align="left"> <a href="https://twitter.com/imran_codes" target="blank"><img src="https://img.shields.io/twitter/follow/imran_codes?logo=twitter&style=for-the-badge" alt="imran_codes" /></a> </p>
+<p> <a href="https://twitter.com/imran_codes" target="blank"><img src="https://img.shields.io/twitter/follow/imran_codes?logo=twitter&style=for-the-badge" alt="imran_codes" /></a> </p>
+  
+  </div>
 
 - 🔭 I’m currently working on [project builds for my Youtube Channel](https://www.youtube.com/channel/UC1vVdtolHwDHf7YTBFa0YMQ)
 
