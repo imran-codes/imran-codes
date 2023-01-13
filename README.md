@@ -1,6 +1,6 @@
 [![MasterHead](https://imrancodes.com/wp-content/uploads/2022/01/Twitch-Banner-2.png)](https://imrancodes.com/)
 <h1 align="center">Hi 👋, I'm Imran Hussain</h1>
-<h3 align="center">Imran | Website Developer YouTube: Imran Codes 💻 ⬇️ Download FREE Git Cheat Sheet 🔗 linktr.ee/imran_codes</h3>
+<h3 align="center">Imran | Senior Software Engineer YouTube: Imran Codes 💻 ⬇️ Download FREE Git Cheat Sheet 🔗 linktr.ee/imran_codes</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <div style='display: flex; align-items: center'>
