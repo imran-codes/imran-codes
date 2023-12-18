@@ -1,4 +1,4 @@
-[![MasterHead](https://imrancodes.com/wp-content/uploads/2022/01/Twitch-Banner-2.png)](https://imrancodes.com/)
+[![MasterHead]([https://imrancodes.com/wp-content/uploads/2022/01/Twitch-Banner-2.png](https://www.imrancodes.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar.d0bbacff.jpg&w=128&q=75))](https://imrancodes.com/)
 <h1 align="center">Hi 👋, I'm Imran Hussain</h1>
 <h3 align="center">Imran | Senior Software Engineer YouTube: Imran Codes 💻 ⬇️ Download 3 FREE Ebooks 🔗 <a href="https://www.imrancodes.com/ebooks#newsletter" target="_blank">Sign Up to free newsletter</a></h3>
 <div style='display: flex; align-items: center; justify-content: center'>
