@@ -1,9 +1,6 @@
 [![MasterHead](https://imrancodes.com/wp-content/uploads/2022/01/Twitch-Banner-2.png)](https://imrancodes.com/)
 <h1 align="center">Hi 👋, I'm Imran Hussain</h1>
 <h3 align="center">Imran | Senior Software Engineer YouTube: Imran Codes 💻 ⬇️ Download 3 FREE Ebooks 🔗 <a href="https://www.imrancodes.com/ebooks#newsletter" target="_blank">Sign Up to free newsletter</a></h3>
-
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 <div style='display: flex; align-items: center; justify-content: center'>
 
 <img src="https://komarev.com/ghpvc/?username=imran-codes&label=Profile%20views&color=0e75b6&style=flat" alt="imran-codes" />   
