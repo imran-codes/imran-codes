@@ -1,9 +1,10 @@
 [![MasterHead](https://imrancodes.com/wp-content/uploads/2022/01/Twitch-Banner-2.png)](https://imrancodes.com/)
 <h1 align="center">Hi 👋, I'm Imran Hussain</h1>
-<h3 align="center">Imran | Senior Software Engineer YouTube: Imran Codes 💻 ⬇️ Download 3 FREE Ebooks 🔗 [https://www.imrancodes.com/ebooks#newsletter](https://www.imrancodes.com/ebooks#newsletter)</h3>
+- 🤝 Download My 3 FREE Ebooks [https://www.imrancodes.com/ebooks#newsletter](https://www.imrancodes.com/ebooks#newsletter)
+<h3 align="center">Imran | Senior Software Engineer YouTube: Imran Codes 💻 ⬇️ Download 3 FREE Ebooks 🔗 </h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<div style='display: flex; align-items: center'>
+<div style='display: flex; align-items: center; justify-content: center'>
 
 <img src="https://komarev.com/ghpvc/?username=imran-codes&label=Profile%20views&color=0e75b6&style=flat" alt="imran-codes" /> 
 
@@ -15,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Saas Projects**
 
-- 🤝 Download My 3 FREE Ebboks [https://www.imrancodes.com/ebooks#newsletter](https://www.imrancodes.com/ebooks#newsletter)
+- 🤝 Download My 3 FREE Ebooks [https://www.imrancodes.com/ebooks#newsletter](https://www.imrancodes.com/ebooks#newsletter)
 
 - 👨‍💻 All of my projects are available at [https://imrancodes.com/projects/](https://imrancodes.com/projects/)
 
