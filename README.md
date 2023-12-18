@@ -1,15 +1,11 @@
 [![MasterHead](https://imrancodes.com/wp-content/uploads/2022/01/Twitch-Banner-2.png)](https://imrancodes.com/)
 <h1 align="center">Hi 👋, I'm Imran Hussain</h1>
-- 🤝 Download My 3 FREE Ebooks [https://www.imrancodes.com/ebooks#newsletter](https://www.imrancodes.com/ebooks#newsletter)
-<h3 align="center">Imran | Senior Software Engineer YouTube: Imran Codes 💻 ⬇️ Download 3 FREE Ebooks 🔗 </h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center">Imran | Senior Software Engineer YouTube: Imran Codes 💻 ⬇️ Download 3 FREE Ebooks 🔗 <a href="https://www.imrancodes.com/ebooks#newsletter" target="_blank">Sign Up to free newsletter</a></h3>
 
 <div style='display: flex; align-items: center; justify-content: center'>
+<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<img src="https://komarev.com/ghpvc/?username=imran-codes&label=Profile%20views&color=0e75b6&style=flat" alt="imran-codes" /> 
-
-<p> <a href="https://twitter.com/imran_codes" target="blank"><img src="https://img.shields.io/twitter/follow/imran_codes?logo=twitter&style=for-the-badge" alt="imran_codes" /></a> </p>
-  
+<img src="https://komarev.com/ghpvc/?username=imran-codes&label=Profile%20views&color=0e75b6&style=flat" alt="imran-codes" />   
   </div>
 
 - 🔭 I’m currently working on [project builds for my Youtube Channel](https://www.youtube.com/channel/UC1vVdtolHwDHf7YTBFa0YMQ)
