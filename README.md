@@ -2,9 +2,8 @@
 
 ### Tech Lead · Lead AI/ML Engineer
 
-Twelve years shipping production systems in TypeScript, React, Node and Python.
-Now leading AI/ML engineering on Google Cloud — RAG, agents, evaluation and the
-MLOps underneath them.
+Twelve years shipping production systems in TypeScript, React, Node and Python,
+and now leading AI/ML engineering on Google Cloud alongside it.
 
 I lead engineering teams, mentor developers into leadership, and still write
 code every day. The throughline across everything I build is systems that live
@@ -26,10 +25,37 @@ production RAG and agent systems on GCP
 
 ---
 
+### What I build
+
+**Full-stack product engineering** — twelve years of it, and still the larger
+half of what I do.
+
+React and TypeScript on the front: design systems, server rendering and
+performance work in Next.js, auth and RBAC done properly rather than bolted on.
+Node and GraphQL behind them, with the API design, CI/CD, observability and
+internal tooling that keeps a team shipping. Most of it has been internal
+platforms, developer tooling and customer journeys running under real audit and
+data-handling constraints.
+
+**AI/ML engineering** — training, evaluation and MLOps pipelines, and serving
+models in production on Google Cloud: Vertex AI, BigQuery, Cloud Run.
+
+Lately that means retrieval and agent systems — RAG that holds up on real
+documents, evals that catch regressions before users do, and the plumbing to run
+it at a cost someone will actually sign off.
+
+These aren't separate careers. The ML work sits **on top of** the full-stack
+work, and shipping a model to production turns out to be mostly a full-stack
+problem: an API, a queue, a cache, a UI someone will use, and the observability
+to know when it breaks.
+
+---
+
 ### Teaching
 
 I run **[Imran Codes](https://www.youtube.com/@imrancodes)** — full project
 walk-throughs, not toy demos. Real auth, real deployment, real trade-offs.
+React, Next.js and TypeScript builds, and the AI/ML work on GCP.
 
 |  |  |
 | --- | --- |
