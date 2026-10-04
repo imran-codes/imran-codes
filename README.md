@@ -1,32 +1,60 @@
-<h1 align="center">Hi 👋, I'm Imran</h1>
-<h3 align="center">Imran | Senior Software Engineer YouTube: Imran Codes 💻 ⬇️ Download 3 FREE Ebooks 🔗 <a href="https://www.imrancodes.com/ebooks#newsletter" target="_blank">Sign Up to free newsletter</a></h3>
-<div style='display: flex; align-items: center; justify-content: center'>
+<img src="assets/header.png" alt="Imran Codes — Tech Lead and Lead AI/ML Engineer" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=imran-codes&label=Profile%20views&color=0e75b6&style=flat" alt="imran-codes" />   
-  </div>
+### Tech Lead · Lead AI/ML Engineer
 
-- 🔭 I’m currently working on [project builds for my Youtube Channel](https://www.youtube.com/channel/UC1vVdtolHwDHf7YTBFa0YMQ)
+Twelve years shipping production systems in TypeScript, React, Node and Python.
+Now leading AI/ML engineering on Google Cloud — RAG, agents, evaluation and the
+MLOps underneath them.
 
-- 👯 I’m looking to collaborate on **Saas Projects**
+I lead engineering teams, mentor developers into leadership, and still write
+code every day. The throughline across everything I build is systems that live
+under real audit, RBAC and data-handling constraints. Guardrails aren't a
+blocker — they're how I already work.
 
-- 🤝 Download My 3 FREE Ebooks [https://www.imrancodes.com/ebooks#newsletter](https://www.imrancodes.com/ebooks#newsletter)
+```
+$ whoami
+tech-lead · lead-ai-ml-engineer
 
-- 👨‍💻 All of my projects are available at [https://imrancodes.com/projects/](https://imrancodes.com/projects/)
+$ cat stack.txt
+typescript · react · next · node · graphql
+python · pytorch · vertex-ai · langgraph
+gcp · bigquery · cloud-run · terraform
 
-- 📹 I regularly post Youtube Videos [https://www.youtube.com/channel/UC1vVdtolHwDHf7YTBFa0YMQ](https://www.youtube.com/channel/UC1vVdtolHwDHf7YTBFa0YMQ)
+$ ls ./now
+production RAG and agent systems on GCP
+```
 
-- 💬 Ask me about **React, NextJS, JavaScript, TypeScript & More**
+---
 
-- 📫 How to reach me **imran@imrancodes.com**
+### Teaching
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/imran-hussain-web-developer/](https://www.linkedin.com/in/imran-hussain-web-developer/)
+I run **[Imran Codes](https://www.youtube.com/@imrancodes)** — full project
+walk-throughs, not toy demos. Real auth, real deployment, real trade-offs.
 
-- ⚡ Fun fact **I have two cats**
+|  |  |
+| --- | --- |
+| **407** | videos published |
+| **1.6k+** | developers following along |
+| **34** | articles at [imrancodes.com](https://imrancodes.com) |
+| **12+** | years shipping production systems |
+| **100+** | engineers led |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imran_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran_codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imran-hussain-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-hussain-web-developer" height="30" width="40" /></a>
-<a href="https://instagram.com/imran_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran_codes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1vVdtolHwDHf7YTBFa0YMQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imran codes" height="30" width="40" /></a>
-</p>
+**Code. Ship. Level up.**
+
+---
+
+### Elsewhere
+
+- **Site and writing** — [imrancodes.com](https://imrancodes.com)
+- **YouTube** — [@imrancodes](https://www.youtube.com/@imrancodes)
+- **LinkedIn** — [in/imran-codes](https://www.linkedin.com/in/imran-codes/)
+- **X** — [@imran_codes](https://twitter.com/imran_codes)
+- **Email** — imran@imrancodes.com
+
+Three free e-books for frontend developers —
+[imrancodes.com/ebooks](https://imrancodes.com/ebooks#newsletter)
+
+---
+
+<sub>Open to select consulting: full-stack delivery, AI/ML on GCP, and coaching
+engineers into tech lead roles. Two cats, neither of them impressed.</sub>
