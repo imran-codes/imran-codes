@@ -33,11 +33,11 @@ walk-throughs, not toy demos. Real auth, real deployment, real trade-offs.
 
 |  |  |
 | --- | --- |
-| **407** | videos published |
 | **1.6k+** | developers following along |
 | **34** | articles at [imrancodes.com](https://imrancodes.com) |
 | **12+** | years shipping production systems |
 | **100+** | engineers led |
+| **GCP** | Associate Engineer certified |
 
 **Code. Ship. Level up.**
 
